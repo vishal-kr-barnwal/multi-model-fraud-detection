@@ -1,0 +1,37 @@
+{
+  "dropped_columns": [
+    "dist2",
+    "D7",
+    "id_07",
+    "id_08",
+    "id_18",
+    "id_21",
+    "id_22",
+    "id_23",
+    "id_24",
+    "id_25",
+    "id_26",
+    "id_27"
+  ],
+  "dropped_negative_amt_rows": 0,
+  "downcast_log": {
+    "train_start_mb": 1901.305362701416,
+    "train_end_mb": 1015.9819526672363,
+    "test_start_mb": 1666.1364555358887,
+    "test_end_mb": 892.9873466491699
+  },
+  "output_files": [
+    "/content/drive/MyDrive/Colab Notebooks/GL-MS-CapStone/data/processed/train.parquet",
+    "/content/drive/MyDrive/Colab Notebooks/GL-MS-CapStone/data/processed/test.parquet"
+  ],
+  "final_train_shape": [
+    590540,
+    426
+  ],
+  "final_test_shape": [
+    506691,
+    425
+  ],
+  "seed": 42,
+  "insights_generated": 11
+}
